@@ -10,6 +10,7 @@ This program will calculate the electricity for "ELCLE" company,  The company re
 ![image](https://user-images.githubusercontent.com/35701617/153744132-8f43b0d7-58d5-49a0-b796-d6b41ae49411.png)
 ![image](https://user-images.githubusercontent.com/35701617/153744134-4cf3e770-b10d-4a86-a391-de4fbee8d6ef.png)
 ![image](https://user-images.githubusercontent.com/35701617/153744137-92ab76b0-4ea5-4ae0-a3ab-d1be6d2f3811.png)
+
 --> the output 
 ![image](https://user-images.githubusercontent.com/35701617/153744141-d574c392-4cd7-4913-a9b3-1700bc60f919.png)
 
